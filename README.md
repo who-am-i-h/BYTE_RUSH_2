@@ -41,6 +41,9 @@ To run this project, you need the following:
 - Tensorflow and Keras for building the CNN model
 - PIL for image processing
 - numpy for data manipulation
+# Video-LINK
+[Youtube-video-for-my-project](https://youtu.be/vivnxwENVZ0)
+
 
 Install dependencies using:
 
@@ -48,6 +51,4 @@ Install dependencies using:
 pip install tensorflow keras pillow numpy flask
 
 
-# Video-LINK
 
-https://youtu.be/vivnxwENVZ0
